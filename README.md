@@ -1,6 +1,6 @@
 # Bienvenido a mi nuevo proyecto
 
-Hola, soy [Tu Nombre]. Este repositorio se inicia desde cero para dar cabida a nuevas ideas.
+Hola, soy Roberto y estoy probando CodeX. Este repositorio se inicia desde cero para dar cabida a nuevas ideas.
 
 ## Primer prompt sugerido
 
