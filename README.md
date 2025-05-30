@@ -30,7 +30,7 @@ ha logrado el entendimiento esperado.
 
 --A Comunicando a todo el equipo a través de e-mail
 --A Comunicando a todo el equipo a través de Slack
---A* Usando un sistema de MLS
+--A* Usando un sistema de LMS
 --A Usando un CMS para publicar los documentos en una intranet
 --A En reuniones grupales en las que se presenta cada documento controlado cuando nace o es modificado
 
